@@ -9,5 +9,5 @@ This project is a Laravel and Laravel-Livewire restaurant management system. Thi
  - sales for a day
  - all orders
 
-## License & Copyright 
-© lucky7123
+## Author 
+© me
